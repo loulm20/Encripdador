@@ -1,0 +1,52 @@
+main{
+    display: flex;
+margin-left: 80px;
+margin-bottom: 50px;}
+
+body{
+    background-color:#e4e8f1;
+}
+
+.espacio1{
+    width: 90%;
+    margin-top: 200px;
+    margin-right: 50px;
+}
+
+.encriptar{
+    margin-left: 50px;
+    background-color: #5333ed;
+    color:#FFFFFF;
+    color:white;
+    border-radius: 10%;
+    border-color: #FFFFFF;  
+}
+
+.desencriptar{
+    background-color: #5333ed;
+    color: #FFFFFF;
+    border-radius: 10%;
+    border-color: #FFFFFF;  
+    margin-right: 10%;
+}
+
+.espacio2{
+    position: relative;
+    margin-top: 30px;
+    margin-left: 40px;
+    height:267px;
+    background-image:url("imagenes/Muñeco.png");
+    background-size: contain;
+
+ 
+}
+
+#copiar{
+    background-color: #5333ed;
+    color: #FFFFFF;
+    border-radius: 10%;
+    border-color: #FFFFFF;  
+    margin-left: 40px;
+    
+}
+
